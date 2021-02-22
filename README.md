@@ -1,4 +1,4 @@
-<M-k># Middleware
+# Middleware
 
 Para ejecutar el middleware , primero se debera realizar **build** de la docker image, utilizando el siguiente comando:
 ```
